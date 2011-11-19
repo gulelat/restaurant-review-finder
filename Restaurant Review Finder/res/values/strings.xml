@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Enter review criteria</string>
+    <string name="app_name">Restaurant Review Finder</string>
+    <string name="location_label">Location (City,ST):</string>
+    <string name="cuisine_label">Cusine:</string>
+    <string name="getReviews_button">Get Reviews</string>
+    <string name="getReviews_menu">Get Reviews</string>
+    <string name="changeRevieCriteria_menu">Change Review Criteria</string>
+    <string-array name="cuisine_array">
+    	<item>ANY</item>		       
+		<item>American</item>		       
+		<item>Barbeque</item>		       
+		<item>Chinese</item>		       
+		<item>French</item>
+		<item>German</item>
+		<item>Indian</item>		       
+		<item>Italian</item>		       
+		<item>Mexican</item>
+		<item>Thai</item>		       
+		<item>Vegetarian</item>
+		<item>Kosher</item>
+    </string-array>
+		<string name="rating_label">Rating:</string>
+		<string name="location2_label">Location:</string>
+		<string name="phone_label">Phone:</string>
+</resources>
