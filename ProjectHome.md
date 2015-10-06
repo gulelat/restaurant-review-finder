@@ -1,0 +1,1 @@
+It searches the local restaurants given by the location
